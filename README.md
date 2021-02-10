@@ -1,4 +1,4 @@
-# Free Developer Resources By CodeStakr
+# Free Developer Resources By codeSTACKr
 
 ### Categories :
 - [Accessibility](#accessibility)
